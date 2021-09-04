@@ -29,6 +29,8 @@ int main()
 	Implement the code here!
 	************************************/
 
+	// Solve the problem
+	
 	for (int i = 0; i < arrsize; i++) {
 		cout << output[i] << " ";
 	}
